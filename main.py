@@ -2,7 +2,7 @@ from random import choice
 
 characters = "abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()"
 
-print("\n\n================= PASSWORD GENERATOR by woken-loves-u\n\n")
+print("\n\n================= PASSWORD GENERATOR by woken-loves-u =================\n\n")
 
 amount = input("How many passwords do you want? \n\t >")
 amount = int(amount)
